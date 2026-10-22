@@ -1,6 +1,6 @@
 # Purrsevere Privacy Policy
 
-This repository hosts the public privacy policy for the current local-only Purrsevere iOS and Android release. The complete page is in `index.html`; it has no build step, JavaScript, cookies, or external assets.
+This repository hosts the public privacy policy for the current local-only Purrsevere iOS and Android release. The complete page is in `index.html`; it has no build step, cookies, or external assets. A short inline script displays the current copyright year.
 
 ## Publish with GitHub Pages
 

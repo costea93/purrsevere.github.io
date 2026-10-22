@@ -77,7 +77,10 @@
       <h2>Questions</h2>
       <p>Purrsevere is the app covered by this policy. For privacy questions or requests, contact its developer at <a href="mailto:purrsevere.app@gmail.com">purrsevere.app@gmail.com</a>.</p>
 
-      <footer>© 2026 Purrsevere</footer>
+      <footer>© <span id="copyright-year">2026</span> Purrsevere</footer>
     </main>
+    <script>
+      document.getElementById('copyright-year').textContent = String(new Date().getFullYear());
+    </script>
   </body>
 </html>
